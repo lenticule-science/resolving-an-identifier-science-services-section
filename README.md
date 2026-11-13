@@ -15,5 +15,5 @@ Headverb service ME that resolves identifiers from a customer node's own standpo
 
 This repository holds section data only. The executable code that used to live here moved to
 [`red-cup-engineering/resolving-an-identifier-engine`](https://github.com/red-cup-engineering/resolving-an-identifier-engine) (received 2026-10-24 from
-`lenticule-science/resolving-an-identifier@290c9a60f4cc`). That engine reads this data from `SECTION_ROOT` (default: its current working directory),
+`lenticule-science/resolving-an-identifier-science-services-section@290c9a60f4cc`). That engine reads this data from `SECTION_ROOT` (default: its current working directory),
 so point `SECTION_ROOT` at a checkout of this repository.
